@@ -1,4 +1,4 @@
-def breakfast("frosted flakes")
+def snacks(food="Cheetos")
   "Any time, is the right time for #{food}!"
 end
 
